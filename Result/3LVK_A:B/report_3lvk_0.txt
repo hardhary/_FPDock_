@@ -1,0 +1,10 @@
+native_3lvk/out1127.pdb  0.000 11.444 21.041 Incorrect
+native_3lvk/out1457.pdb  0.004 15.407 31.852 Incorrect
+native_3lvk/out162.pdb  0.000 8.864 16.332 Incorrect
+native_3lvk/out1707.pdb  0.000 12.451 25.993 Incorrect
+native_3lvk/out1965.pdb  0.186 4.283 7.535 Acceptable
+native_3lvk/out4217.pdb  0.265 5.184 15.260 Incorrect
+native_3lvk/out5079.pdb  0.000 13.638 36.501 Incorrect
+native_3lvk/out583.pdb  0.000 9.447 19.028 Incorrect
+native_3lvk/out7499.pdb  0.000 15.551 35.338 Incorrect
+native_3lvk/out9745.pdb  0.000 10.097 22.128 Incorrect

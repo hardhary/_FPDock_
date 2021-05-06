@@ -1,0 +1,10 @@
+native_3g6d/out21.pdb  0.000 12.603 42.096 Incorrect
+native_3g6d/out2210.pdb  0.008 7.853 13.371 Incorrect
+native_3g6d/out2363.pdb  0.000 14.282 48.282 Incorrect
+native_3g6d/out2785.pdb  0.050 5.651 10.707 Incorrect
+native_3g6d/out436.pdb  0.013 6.563 5.494 Incorrect
+native_3g6d/out5174.pdb  0.000 11.614 26.468 Incorrect
+native_3g6d/out553.pdb  0.120 4.569 7.959 Acceptable
+native_3g6d/out923.pdb  0.000 10.930 33.241 Incorrect
+native_3g6d/out945.pdb  0.000 14.486 47.311 Incorrect
+native_3g6d/out9607.pdb  0.200 3.649 11.838 Acceptable

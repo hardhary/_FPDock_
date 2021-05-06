@@ -1,0 +1,10 @@
+native_2a1a/out1254.pdb  0.000 11.439 22.453 Incorrect
+native_2a1a/out1398.pdb  0.000 10.705 49.431 Incorrect
+native_2a1a/out1411.pdb  0.000 12.912 35.200 Incorrect
+native_2a1a/out1686.pdb  0.000 10.454 18.001 Incorrect
+native_2a1a/out2140.pdb  0.007 14.112 35.773 Incorrect
+native_2a1a/out2169.pdb  0.043 11.489 19.343 Incorrect
+native_2a1a/out25.pdb  0.004 10.878 21.479 Incorrect
+native_2a1a/out3238.pdb  0.000 15.616 58.434 Incorrect
+native_2a1a/out3408.pdb  0.003 11.052 21.201 Incorrect
+native_2a1a/out727.pdb  0.000 11.253 21.491 Incorrect

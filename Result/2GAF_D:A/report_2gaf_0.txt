@@ -1,0 +1,10 @@
+native_2gaf/out1045.pdb  0.004 18.482 23.703 Incorrect
+native_2gaf/out1070.pdb  0.000 13.526 26.117 Incorrect
+native_2gaf/out1167.pdb  0.002 25.074 61.994 Incorrect
+native_2gaf/out1252.pdb  0.000 15.892 18.153 Incorrect
+native_2gaf/out1485.pdb  0.000 24.830 63.356 Incorrect
+native_2gaf/out243.pdb  0.000 14.789 16.302 Incorrect
+native_2gaf/out3495.pdb  0.000 24.866 70.451 Incorrect
+native_2gaf/out4211.pdb  0.000 23.729 54.599 Incorrect
+native_2gaf/out6633.pdb  0.000 15.608 41.470 Incorrect
+native_2gaf/out8905.pdb  0.002 19.342 32.867 Incorrect

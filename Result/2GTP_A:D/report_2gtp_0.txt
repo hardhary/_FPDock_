@@ -1,0 +1,10 @@
+native_2gtp/out10198.pdb  0.000 8.427 4.429 Incorrect
+native_2gtp/out1305.pdb  0.007 8.137 9.434 Incorrect
+native_2gtp/out2171.pdb  0.000 10.468 45.983 Incorrect
+native_2gtp/out2217.pdb  0.000 16.779 53.210 Incorrect
+native_2gtp/out251.pdb  0.015 11.187 15.040 Incorrect
+native_2gtp/out3884.pdb  0.000 9.309 10.775 Incorrect
+native_2gtp/out5345.pdb  0.000 18.712 38.736 Incorrect
+native_2gtp/out63.pdb  0.005 9.190 6.263 Incorrect
+native_2gtp/out7136.pdb  0.007 8.595 5.960 Incorrect
+native_2gtp/out7159.pdb  0.000 14.608 26.308 Incorrect

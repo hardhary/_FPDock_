@@ -1,0 +1,10 @@
+native_2vxt/out10515.pdb  0.014 8.583 23.815 Incorrect
+native_2vxt/out1324.pdb  0.012 6.845 19.407 Incorrect
+native_2vxt/out147.pdb  0.000 17.960 40.603 Incorrect
+native_2vxt/out2234.pdb  0.019 6.426 11.106 Incorrect
+native_2vxt/out2543.pdb  0.013 10.255 29.047 Incorrect
+native_2vxt/out4307.pdb  0.328 2.181 4.696 Medium
+native_2vxt/out7289.pdb  0.331 2.156 4.609 Medium
+native_2vxt/out7579.pdb  0.009 6.994 12.012 Incorrect
+native_2vxt/out8475.pdb  0.257 2.494 4.594 Acceptable
+native_2vxt/out965.pdb  0.265 2.748 7.110 Acceptable

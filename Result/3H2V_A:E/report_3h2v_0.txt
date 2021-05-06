@@ -1,0 +1,10 @@
+native_3h2v/out1246.pdb  0.320 2.293 6.071 Acceptable
+native_3h2v/out129.pdb  0.295 2.773 10.574 Acceptable
+native_3h2v/out1405.pdb  0.321 2.467 4.662 Medium
+native_3h2v/out2513.pdb  0.183 4.478 14.173 Incorrect
+native_3h2v/out2531.pdb  0.000 11.382 36.860 Incorrect
+native_3h2v/out26.pdb  0.000 9.080 30.877 Incorrect
+native_3h2v/out3898.pdb  0.044 12.407 30.397 Incorrect
+native_3h2v/out5261.pdb  0.090 8.580 23.903 Incorrect
+native_3h2v/out756.pdb  0.511 1.636 4.389 Medium
+native_3h2v/out979.pdb  0.066 8.772 22.403 Incorrect

@@ -1,0 +1,10 @@
+native_1m27/out1330.pdb  0.000 8.276 19.543 Incorrect
+native_1m27/out1396.pdb  0.417 2.479 8.153 Acceptable
+native_1m27/out1984.pdb  0.137 4.253 8.976 Acceptable
+native_1m27/out238.pdb  0.000 10.006 23.991 Incorrect
+native_1m27/out2617.pdb  0.000 5.781 14.213 Incorrect
+native_1m27/out3361.pdb  0.045 5.209 11.163 Incorrect
+native_1m27/out3473.pdb  0.211 4.014 7.502 Acceptable
+native_1m27/out7040.pdb  0.006 6.423 14.308 Incorrect
+native_1m27/out87.pdb  0.269 3.093 5.623 Acceptable
+native_1m27/out9355.pdb  0.214 3.176 7.837 Acceptable

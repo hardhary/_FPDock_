@@ -1,0 +1,10 @@
+native_3bx7/out10210.pdb  0.180 7.919 7.367 Acceptable
+native_3bx7/out1369.pdb  0.226 6.439 7.305 Acceptable
+native_3bx7/out153.pdb  0.000 6.084 16.632 Incorrect
+native_3bx7/out18.pdb  0.120 6.795 12.839 Incorrect
+native_3bx7/out2393.pdb  0.077 7.428 11.164 Incorrect
+native_3bx7/out312.pdb  0.000 5.554 21.381 Incorrect
+native_3bx7/out68.pdb  0.060 8.007 8.167 Incorrect
+native_3bx7/out7128.pdb  0.000 10.758 27.916 Incorrect
+native_3bx7/out8203.pdb  0.135 6.839 10.819 Incorrect
+native_3bx7/out9742.pdb  0.081 7.849 8.071 Incorrect

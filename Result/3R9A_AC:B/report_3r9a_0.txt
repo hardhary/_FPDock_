@@ -1,0 +1,10 @@
+native_3r9a/out10447.pdb  0.000 18.873 51.309 Incorrect
+native_3r9a/out1620.pdb  0.000 25.164 51.489 Incorrect
+native_3r9a/out2174.pdb  0.000 21.107 68.637 Incorrect
+native_3r9a/out2340.pdb  0.000 37.934 76.734 Incorrect
+native_3r9a/out2400.pdb  0.000 22.669 59.053 Incorrect
+native_3r9a/out2660.pdb  0.000 30.967 78.510 Incorrect
+native_3r9a/out2908.pdb  0.000 26.025 75.791 Incorrect
+native_3r9a/out4333.pdb  0.000 24.903 74.701 Incorrect
+native_3r9a/out4994.pdb  0.000 23.491 71.188 Incorrect
+native_3r9a/out6079.pdb  0.000 23.226 64.797 Incorrect

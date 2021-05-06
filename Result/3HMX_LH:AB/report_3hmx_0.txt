@@ -1,0 +1,10 @@
+native_3hmx/out10019.pdb  0.041 6.921 43.146 Incorrect
+native_3hmx/out10187.pdb  0.000 19.090 64.779 Incorrect
+native_3hmx/out1190.pdb  0.091 5.476 20.359 Incorrect
+native_3hmx/out1277.pdb  0.241 3.925 14.374 Acceptable
+native_3hmx/out1408.pdb  0.006 6.751 30.411 Incorrect
+native_3hmx/out2549.pdb  0.000 11.633 46.133 Incorrect
+native_3hmx/out2766.pdb  0.099 9.169 75.058 Incorrect
+native_3hmx/out71.pdb  0.380 2.689 6.346 Acceptable
+native_3hmx/out9728.pdb  0.297 3.041 8.724 Acceptable
+native_3hmx/out9956.pdb  0.081 7.455 53.536 Incorrect

@@ -1,0 +1,10 @@
+native_4g6m/out1369.pdb  0.000 19.494 52.343 Incorrect
+native_4g6m/out1578.pdb  0.000 21.272 56.483 Incorrect
+native_4g6m/out1989.pdb  0.153 3.591 7.831 Acceptable
+native_4g6m/out2094.pdb  0.051 9.077 16.544 Incorrect
+native_4g6m/out215.pdb  0.073 7.113 19.264 Incorrect
+native_4g6m/out2222.pdb  0.008 7.752 18.863 Incorrect
+native_4g6m/out2312.pdb  0.398 1.984 5.966 Medium
+native_4g6m/out2635.pdb  0.276 2.484 5.974 Acceptable
+native_4g6m/out306.pdb  0.002 13.323 26.742 Incorrect
+native_4g6m/out4242.pdb  0.000 15.985 43.983 Incorrect

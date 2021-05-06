@@ -1,0 +1,10 @@
+native_3aad/out10466.pdb  0.000 18.093 32.619 Incorrect
+native_3aad/out1356.pdb  0.000 11.193 5.751 Incorrect
+native_3aad/out2372.pdb  0.000 18.019 28.278 Incorrect
+native_3aad/out2786.pdb  0.000 11.407 9.661 Incorrect
+native_3aad/out5128.pdb  0.000 18.742 30.034 Incorrect
+native_3aad/out6337.pdb  0.000 11.110 5.813 Incorrect
+native_3aad/out7803.pdb  0.000 21.753 39.287 Incorrect
+native_3aad/out811.pdb  0.000 11.955 10.483 Incorrect
+native_3aad/out896.pdb  0.000 13.525 13.863 Incorrect
+native_3aad/out97.pdb  0.000 10.969 6.289 Incorrect

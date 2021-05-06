@@ -1,0 +1,10 @@
+native_2x9a/out1138.pdb  0.366 2.807 9.010 Acceptable
+native_2x9a/out1382.pdb  0.159 3.430 9.233 Acceptable
+native_2x9a/out20.pdb  0.000 9.652 30.958 Incorrect
+native_2x9a/out2473.pdb  0.182 4.458 11.821 Incorrect
+native_2x9a/out2997.pdb  0.302 3.750 11.442 Acceptable
+native_2x9a/out303.pdb  0.119 5.767 19.709 Incorrect
+native_2x9a/out3443.pdb  0.097 4.849 14.035 Incorrect
+native_2x9a/out4002.pdb  0.246 4.048 11.093 Incorrect
+native_2x9a/out7368.pdb  0.122 3.885 11.452 Acceptable
+native_2x9a/out8817.pdb  0.289 3.057 9.003 Acceptable

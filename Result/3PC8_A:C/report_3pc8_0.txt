@@ -1,0 +1,10 @@
+native_3pc8/out1226.pdb  0.000 10.856 41.525 Incorrect
+native_3pc8/out1413.pdb  0.050 7.002 28.613 Incorrect
+native_3pc8/out1497.pdb  0.000 8.728 29.807 Incorrect
+native_3pc8/out1556.pdb  0.000 13.753 24.784 Incorrect
+native_3pc8/out2775.pdb  0.011 9.142 23.561 Incorrect
+native_3pc8/out2888.pdb  0.105 5.735 12.169 Incorrect
+native_3pc8/out2946.pdb  0.007 10.653 19.558 Incorrect
+native_3pc8/out4868.pdb  0.014 7.891 19.653 Incorrect
+native_3pc8/out5501.pdb  0.000 11.768 26.616 Incorrect
+native_3pc8/out8437.pdb  0.000 14.161 41.949 Incorrect

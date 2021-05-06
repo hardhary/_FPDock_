@@ -1,0 +1,10 @@
+native_1rke/out1059.pdb  0.000 6.490 18.493 Incorrect
+native_1rke/out1326.pdb  0.000 15.177 34.236 Incorrect
+native_1rke/out1373.pdb  0.000 21.202 41.638 Incorrect
+native_1rke/out1384.pdb  0.000 6.720 15.855 Incorrect
+native_1rke/out140.pdb  0.265 4.296 2.895 Acceptable
+native_1rke/out1498.pdb  0.127 5.176 7.491 Acceptable
+native_1rke/out2408.pdb  0.062 6.000 12.419 Incorrect
+native_1rke/out3414.pdb  0.089 5.655 8.586 Incorrect
+native_1rke/out3564.pdb  0.000 21.818 41.807 Incorrect
+native_1rke/out97.pdb  0.009 14.557 40.162 Incorrect

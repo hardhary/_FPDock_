@@ -1,0 +1,10 @@
+native_3mxw/out1141.pdb  
+native_3mxw/out1229.pdb  
+native_3mxw/out1370.pdb  
+native_3mxw/out1487.pdb  
+native_3mxw/out2197.pdb  
+native_3mxw/out2415.pdb  
+native_3mxw/out2837.pdb  
+native_3mxw/out5551.pdb  
+native_3mxw/out961.pdb  
+native_3mxw/out9801.pdb  

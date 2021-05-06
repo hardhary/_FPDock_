@@ -1,0 +1,10 @@
+native_BAAD/out10067.pdb  
+native_BAAD/out10213.pdb  
+native_BAAD/out10221.pdb  
+native_BAAD/out1059.pdb  
+native_BAAD/out1509.pdb  
+native_BAAD/out18.pdb  
+native_BAAD/out1983.pdb  
+native_BAAD/out2397.pdb  
+native_BAAD/out351.pdb  
+native_BAAD/out949.pdb  

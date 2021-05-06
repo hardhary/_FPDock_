@@ -1,0 +1,10 @@
+native_4hx3/out1015.pdb  0.507 2.072 4.469 Medium
+native_4hx3/out1126.pdb  0.000 17.283 44.541 Incorrect
+native_4hx3/out1303.pdb  0.000 17.763 51.517 Incorrect
+native_4hx3/out132.pdb  0.558 3.452 4.436 Medium
+native_4hx3/out25.pdb  0.000 9.881 14.558 Incorrect
+native_4hx3/out3393.pdb  0.011 6.016 14.309 Incorrect
+native_4hx3/out545.pdb  0.104 7.276 14.990 Incorrect
+native_4hx3/out5538.pdb  0.774 2.020 2.069 Medium
+native_4hx3/out63.pdb  0.000 16.568 39.147 Incorrect
+native_4hx3/out6556.pdb  0.013 6.022 13.984 Incorrect

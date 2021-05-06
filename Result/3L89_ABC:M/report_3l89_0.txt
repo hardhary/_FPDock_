@@ -1,0 +1,10 @@
+native_3l89/out124.pdb  0.107 4.609 9.621 Acceptable
+native_3l89/out1257.pdb  0.000 20.287 48.313 Incorrect
+native_3l89/out3031.pdb  0.020 9.121 20.341 Incorrect
+native_3l89/out3413.pdb  0.000 14.402 38.751 Incorrect
+native_3l89/out354.pdb  0.003 9.702 30.661 Incorrect
+native_3l89/out3599.pdb  0.221 2.799 6.640 Acceptable
+native_3l89/out4846.pdb  0.000 27.327 62.497 Incorrect
+native_3l89/out4884.pdb  0.000 11.293 27.125 Incorrect
+native_3l89/out7325.pdb  0.241 4.085 13.029 Incorrect
+native_3l89/out865.pdb  0.000 9.135 20.238 Incorrect

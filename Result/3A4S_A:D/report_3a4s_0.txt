@@ -1,0 +1,10 @@
+native_3a4s/out251.pdb  0.000 35.209 96.546 Incorrect
+native_3a4s/out25.pdb  0.000 35.333 95.572 Incorrect
+native_3a4s/out3259.pdb  0.000 37.175 98.035 Incorrect
+native_3a4s/out3967.pdb  0.000 36.587 96.891 Incorrect
+native_3a4s/out4593.pdb  0.000 36.202 96.352 Incorrect
+native_3a4s/out6848.pdb  0.000 36.254 97.068 Incorrect
+native_3a4s/out732.pdb  0.000 36.653 97.061 Incorrect
+native_3a4s/out8608.pdb  0.000 37.097 95.407 Incorrect
+native_3a4s/out874.pdb  0.000 37.285 98.117 Incorrect
+native_3a4s/out9087.pdb  0.000 32.310 92.859 Incorrect

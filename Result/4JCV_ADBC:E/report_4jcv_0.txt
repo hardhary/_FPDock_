@@ -1,0 +1,10 @@
+native_4jcv/out1155.pdb  0.000 25.268 58.959 Incorrect
+native_4jcv/out123.pdb  0.000 33.224 46.951 Incorrect
+native_4jcv/out2189.pdb  0.000 24.622 93.353 Incorrect
+native_4jcv/out2529.pdb  0.000 23.554 53.801 Incorrect
+native_4jcv/out3401.pdb  0.000 34.354 80.798 Incorrect
+native_4jcv/out4276.pdb  0.000 27.445 52.963 Incorrect
+native_4jcv/out6758.pdb  0.000 30.642 71.018 Incorrect
+native_4jcv/out9015.pdb  0.000 31.229 30.778 Incorrect
+native_4jcv/out9119.pdb  0.000 24.519 47.146 Incorrect
+native_4jcv/out945.pdb  0.000 28.882 57.822 Incorrect

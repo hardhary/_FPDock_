@@ -1,0 +1,10 @@
+native_3eo1/out1330.pdb  0.048 6.553 16.622 Incorrect
+native_3eo1/out220.pdb  0.000 36.845 78.911 Incorrect
+native_3eo1/out2374.pdb  0.084 4.838 21.258 Incorrect
+native_3eo1/out2665.pdb  0.000 8.793 19.765 Incorrect
+native_3eo1/out3125.pdb  0.000 13.470 27.841 Incorrect
+native_3eo1/out5140.pdb  0.110 3.767 8.558 Acceptable
+native_3eo1/out736.pdb  0.000 18.688 37.384 Incorrect
+native_3eo1/out7408.pdb  0.000 9.042 23.339 Incorrect
+native_3eo1/out8558.pdb  0.000 7.215 21.802 Incorrect
+native_3eo1/out9392.pdb  0.000 14.768 30.491 Incorrect
