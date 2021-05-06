@@ -1,0 +1,10 @@
+native_1jtd/out1168.pdb  0.000 10.380 14.638 Incorrect
+native_1jtd/out130.pdb  0.009 8.565 6.663 Incorrect
+native_1jtd/out1893.pdb  0.000 9.012 9.859 Incorrect
+native_1jtd/out3681.pdb  0.000 15.161 22.100 Incorrect
+native_1jtd/out4217.pdb  0.000 7.449 5.074 Incorrect
+native_1jtd/out42.pdb  0.000 7.678 4.778 Incorrect
+native_1jtd/out5477.pdb  0.000 13.563 17.573 Incorrect
+native_1jtd/out627.pdb  0.013 15.803 27.156 Incorrect
+native_1jtd/out8343.pdb  0.000 9.234 11.602 Incorrect
+native_1jtd/out9638.pdb  0.000 12.936 25.255 Incorrect

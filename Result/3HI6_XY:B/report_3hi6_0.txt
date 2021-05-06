@@ -1,0 +1,10 @@
+native_3hi6/out1035.pdb  0.225 3.425 5.137 Acceptable
+native_3hi6/out1213.pdb  0.065 5.725 14.671 Incorrect
+native_3hi6/out2722.pdb  0.193 3.617 7.267 Acceptable
+native_3hi6/out2948.pdb  0.000 32.098 69.201 Incorrect
+native_3hi6/out3292.pdb  0.000 22.350 51.201 Incorrect
+native_3hi6/out3506.pdb  0.000 20.985 51.615 Incorrect
+native_3hi6/out5786.pdb  0.211 3.738 6.842 Acceptable
+native_3hi6/out6162.pdb  0.000 25.677 52.775 Incorrect
+native_3hi6/out7549.pdb  0.000 18.465 47.161 Incorrect
+native_3hi6/out9869.pdb  0.120 4.737 10.252 Incorrect

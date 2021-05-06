@@ -1,0 +1,10 @@
+native_3vlb/out1094.pdb  0.034 8.046 7.486 Incorrect
+native_3vlb/out1579.pdb  0.094 6.955 4.417 Incorrect
+native_3vlb/out1618.pdb  0.000 23.366 78.106 Incorrect
+native_3vlb/out1667.pdb  0.085 7.088 4.935 Incorrect
+native_3vlb/out24.pdb  0.042 7.984 8.810 Incorrect
+native_3vlb/out5476.pdb  0.000 19.861 67.641 Incorrect
+native_3vlb/out6036.pdb  0.001 16.470 39.919 Incorrect
+native_3vlb/out8442.pdb  0.000 12.941 39.402 Incorrect
+native_3vlb/out9200.pdb  0.000 16.233 52.003 Incorrect
+native_3vlb/out926.pdb  0.005 13.734 22.963 Incorrect

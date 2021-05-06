@@ -1,0 +1,10 @@
+native_3daw/out1134.pdb  0.000 20.509 60.960 Incorrect
+native_3daw/out32.pdb  0.000 20.929 58.841 Incorrect
+native_3daw/out3418.pdb  0.000 16.902 54.902 Incorrect
+native_3daw/out352.pdb  0.000 7.944 18.893 Incorrect
+native_3daw/out5493.pdb  0.004 16.624 45.620 Incorrect
+native_3daw/out601.pdb  0.300 3.028 8.702 Acceptable
+native_3daw/out7381.pdb  0.000 13.805 48.219 Incorrect
+native_3daw/out752.pdb  0.000 13.995 26.924 Incorrect
+native_3daw/out9024.pdb  0.061 6.764 12.131 Incorrect
+native_3daw/out9668.pdb  0.157 4.296 7.776 Acceptable

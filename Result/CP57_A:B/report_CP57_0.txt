@@ -1,0 +1,10 @@
+native_CP57/out1048.pdb  0.000 17.086 43.702 Incorrect
+native_CP57/out1404.pdb  0.000 19.590 52.458 Incorrect
+native_CP57/out2115.pdb  0.000 17.543 53.610 Incorrect
+native_CP57/out2434.pdb  0.000 12.873 20.542 Incorrect
+native_CP57/out2491.pdb  0.033 8.815 31.049 Incorrect
+native_CP57/out2764.pdb  0.016 6.599 14.578 Incorrect
+native_CP57/out3177.pdb  0.000 7.001 12.084 Incorrect
+native_CP57/out5473.pdb  0.007 6.215 10.108 Incorrect
+native_CP57/out8420.pdb  0.000 18.047 37.216 Incorrect
+native_CP57/out9438.pdb  0.003 9.381 19.532 Incorrect

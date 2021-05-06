@@ -1,0 +1,10 @@
+native_4fqi/out1165.pdb  0.129 3.888 12.078 Acceptable
+native_4fqi/out127.pdb  0.000 19.662 32.852 Incorrect
+native_4fqi/out1526.pdb  0.000 27.418 36.662 Incorrect
+native_4fqi/out1646.pdb  0.000 19.258 70.808 Incorrect
+native_4fqi/out2586.pdb  0.000 16.829 28.774 Incorrect
+native_4fqi/out3498.pdb  0.000 16.343 22.411 Incorrect
+native_4fqi/out4308.pdb  0.160 3.370 13.698 Acceptable
+native_4fqi/out6256.pdb  0.222 3.549 14.182 Acceptable
+native_4fqi/out8588.pdb  0.136 4.151 16.609 Incorrect
+native_4fqi/out9076.pdb  0.000 13.729 36.788 Incorrect

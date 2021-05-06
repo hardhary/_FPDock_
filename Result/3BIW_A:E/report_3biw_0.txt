@@ -1,0 +1,10 @@
+native_3biw/out1649.pdb  0.100 7.713 8.896 Acceptable
+native_3biw/out1987.pdb  0.000 14.722 40.112 Incorrect
+native_3biw/out2219.pdb  0.000 18.783 40.424 Incorrect
+native_3biw/out246.pdb  0.000 18.727 49.811 Incorrect
+native_3biw/out3298.pdb  0.000 15.888 34.409 Incorrect
+native_3biw/out4777.pdb  0.000 23.260 62.142 Incorrect
+native_3biw/out6857.pdb  0.000 23.640 61.135 Incorrect
+native_3biw/out7134.pdb  0.000 24.144 60.264 Incorrect
+native_3biw/out9407.pdb  0.000 17.482 54.162 Incorrect
+native_3biw/out969.pdb  0.048 11.570 32.423 Incorrect

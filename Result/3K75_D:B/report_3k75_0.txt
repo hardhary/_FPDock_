@@ -1,0 +1,10 @@
+native_3k75/out2311.pdb  0.000 10.148 35.480 Incorrect
+native_3k75/out3258.pdb  0.061 5.672 3.724 Incorrect
+native_3k75/out4143.pdb  0.000 11.012 32.726 Incorrect
+native_3k75/out438.pdb  0.000 9.751 35.741 Incorrect
+native_3k75/out5225.pdb  0.016 15.518 27.978 Incorrect
+native_3k75/out6979.pdb  0.000 10.714 49.864 Incorrect
+native_3k75/out7104.pdb  0.000 11.880 37.917 Incorrect
+native_3k75/out781.pdb  0.000 11.804 42.581 Incorrect
+native_3k75/out865.pdb  0.000 20.076 51.443 Incorrect
+native_3k75/out9493.pdb  0.000 26.554 78.669 Incorrect

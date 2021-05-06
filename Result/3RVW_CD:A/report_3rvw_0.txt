@@ -1,0 +1,10 @@
+native_3rvw/out1384.pdb  0.059 6.121 11.281 Incorrect
+native_3rvw/out1665.pdb  0.001 15.688 25.812 Incorrect
+native_3rvw/out2101.pdb  0.229 3.334 6.393 Acceptable
+native_3rvw/out2414.pdb  0.016 8.213 13.422 Incorrect
+native_3rvw/out2557.pdb  0.132 5.088 14.154 Incorrect
+native_3rvw/out2795.pdb  0.000 16.219 35.240 Incorrect
+native_3rvw/out4374.pdb  0.000 11.494 17.461 Incorrect
+native_3rvw/out74.pdb  0.033 7.221 12.766 Incorrect
+native_3rvw/out8847.pdb  0.062 6.515 10.661 Incorrect
+native_3rvw/out934.pdb  0.001 12.276 20.333 Incorrect

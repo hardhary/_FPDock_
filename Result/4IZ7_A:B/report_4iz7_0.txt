@@ -1,0 +1,10 @@
+native_4iz7/out1026.pdb  0.013 9.993 9.753 Incorrect
+native_4iz7/out1304.pdb  0.000 22.948 60.056 Incorrect
+native_4iz7/out1419.pdb  0.008 13.367 41.897 Incorrect
+native_4iz7/out2397.pdb  0.024 10.648 24.543 Incorrect
+native_4iz7/out2665.pdb  0.000 14.594 20.665 Incorrect
+native_4iz7/out2952.pdb  0.000 15.346 25.881 Incorrect
+native_4iz7/out3277.pdb  0.000 13.147 27.987 Incorrect
+native_4iz7/out741.pdb  0.000 17.244 49.639 Incorrect
+native_4iz7/out884.pdb  0.016 12.612 17.606 Incorrect
+native_4iz7/out9439.pdb  0.024 8.563 4.103 Incorrect

@@ -1,0 +1,10 @@
+native_3l5w/out1340.pdb  0.059 5.673 14.978 Incorrect
+native_3l5w/out1361.pdb  0.481 0.748 2.721 Medium
+native_3l5w/out1412.pdb  0.000 11.165 32.792 Incorrect
+native_3l5w/out3022.pdb  0.054 5.193 10.522 Incorrect
+native_3l5w/out3900.pdb  0.000 23.960 54.920 Incorrect
+native_3l5w/out433.pdb  0.000 9.352 14.275 Incorrect
+native_3l5w/out4494.pdb  0.456 0.903 2.389 Medium
+native_3l5w/out478.pdb  0.125 4.625 13.899 Incorrect
+native_3l5w/out7253.pdb  0.611 0.842 1.981 High
+native_3l5w/out7788.pdb  0.000 20.190 45.838 Incorrect

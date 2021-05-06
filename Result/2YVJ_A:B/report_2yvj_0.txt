@@ -1,0 +1,10 @@
+native_2yvj/out1128.pdb  0.034 4.694 11.076 Incorrect
+native_2yvj/out1488.pdb  0.074 4.694 19.330 Incorrect
+native_2yvj/out2303.pdb  0.000 19.693 63.370 Incorrect
+native_2yvj/out2738.pdb  0.000 20.734 55.709 Incorrect
+native_2yvj/out322.pdb  0.002 9.480 23.329 Incorrect
+native_2yvj/out5474.pdb  0.059 7.291 18.539 Incorrect
+native_2yvj/out6869.pdb  0.000 18.802 46.689 Incorrect
+native_2yvj/out740.pdb  0.062 4.325 7.605 Incorrect
+native_2yvj/out7712.pdb  0.000 22.262 48.962 Incorrect
+native_2yvj/out799.pdb  0.206 3.315 7.929 Acceptable

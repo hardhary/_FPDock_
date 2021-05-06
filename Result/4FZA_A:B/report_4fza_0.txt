@@ -1,0 +1,10 @@
+native_4fza/out1121.pdb  0.000 13.416 49.741 Incorrect
+native_4fza/out1161.pdb  0.000 13.424 57.366 Incorrect
+native_4fza/out2092.pdb  0.002 19.787 47.211 Incorrect
+native_4fza/out2372.pdb  0.000 23.740 71.268 Incorrect
+native_4fza/out2835.pdb  0.000 24.035 57.313 Incorrect
+native_4fza/out4241.pdb  0.000 11.907 70.280 Incorrect
+native_4fza/out483.pdb  0.000 12.482 57.698 Incorrect
+native_4fza/out5658.pdb  0.000 24.000 60.585 Incorrect
+native_4fza/out814.pdb  0.000 11.259 48.664 Incorrect
+native_4fza/out92.pdb  0.000 15.027 52.096 Incorrect

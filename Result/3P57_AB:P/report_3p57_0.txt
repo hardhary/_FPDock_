@@ -1,0 +1,10 @@
+native_3p57/out1075.pdb  0.042 5.938 15.000 Incorrect
+native_3p57/out1642.pdb  0.028 7.101 16.858 Incorrect
+native_3p57/out1761.pdb  0.013 9.053 14.779 Incorrect
+native_3p57/out184.pdb  0.000 5.011 12.492 Incorrect
+native_3p57/out2349.pdb  0.003 12.493 40.991 Incorrect
+native_3p57/out2536.pdb  0.000 14.364 30.314 Incorrect
+native_3p57/out2890.pdb  0.000 14.168 30.099 Incorrect
+native_3p57/out3524.pdb  0.324 2.075 3.662 Medium
+native_3p57/out8013.pdb  0.000 7.875 11.689 Incorrect
+native_3p57/out8697.pdb  0.000 15.990 33.196 Incorrect

@@ -1,0 +1,10 @@
+native_2w9e/out1035.pdb  
+native_2w9e/out1181.pdb  
+native_2w9e/out1193.pdb  
+native_2w9e/out1534.pdb  
+native_2w9e/out1554.pdb  
+native_2w9e/out214.pdb  
+native_2w9e/out330.pdb  
+native_2w9e/out502.pdb  
+native_2w9e/out6057.pdb  
+native_2w9e/out908.pdb  
