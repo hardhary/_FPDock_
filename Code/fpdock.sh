@@ -3,7 +3,7 @@ set -e
 #recc=['A']
 #ligc=['B']
 #ja="4m76_AB"
-lis=(Data/[1-9]*)
+lis=(Data/4dn4*)
 for ja in "${lis[@]}"
 do
 	cry="$(cut -d'/' -f2 <<<"$ja").pdb"  #"${ja}.pdb" #"${ja}.pdb"
@@ -11,17 +11,9 @@ do
 	mkdir ${sub}
 for h in {0..0}
 do
-	#cp "$j/${j:$((${#j}-7)):4}_u1.pdb" ./
-	#cp "$j/${j:$((${#j}-7)):4}_u2.pdb" ./
-	#cp "$j/${j:$((${#j}-7)):7}_st.pdb" ./
-	#cp "$j/${j}_u1.pdb" ./
-	#cp "$j/${j}_u2.pdb" ./
-	#cp "$j/${j}.pdb" ./
 
 	
 	touch  "report_${sub}_${h}.txt"
-	#bash -c '[ -d ./poses ] && rm -r ./poses/*'
-	#python 30-6-20-fpa.py -rpdb "${ja}/${ja}_u1.pdb" -lpdb "${ja}/${ja}_u2.pdb" -recchain ${recc} -ligchain ${ligc} -n 30
 	chain=($(python3 dock.py -pdb ${ja} -n 200 | tr -d '[],'))
 	echo ${chain[0]}
 
@@ -35,7 +27,7 @@ do
 
 	result=(native_${sub}/*)
 
-	# ${ch[1]} ${ch[2]} ${ch[3]} ${ch[4]} ${ch[5]}
+	# Analysis of the results
 
 	for i in "${result[@]}"
 	do
