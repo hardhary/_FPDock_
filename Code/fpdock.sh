@@ -1,8 +1,4 @@
 set -e
-#<<'COMMENTS'
-#recc=['A']
-#ligc=['B']
-#ja="4m76_AB"
 lis=(Data/4dn4*)
 for ja in "${lis[@]}"
 do
