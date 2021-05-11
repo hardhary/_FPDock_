@@ -46,6 +46,7 @@ atom_types = [['N'], ['CA'], ['C'], ['O'], ['GLYCA'],
                    'TRPCZ3', 'TRPCH2', 'TYRCG', 'TYRCD1', 'TYRCD2'],
                   ['ILECG2', 'ILECD1', 'ILECD', 'LEUCD1', 'LEUCD2', 'METCE', 'VALCG1', 'VALCG2'], ['CYSSG']]
 np.random.seed(0)
+#return residue-wise representation
 def chaindef(file, rec_chain):
     
     structure=p.get_structure('1bth',file)
@@ -104,7 +105,7 @@ def chaindef(file, rec_chain):
                         boundary_residue_name.append(residue.get_resname())
     #print(rcc)
     return boundary_residue_coord,boundary_residue_name, boundary_residue_id, atom_coord
-
+#compute shape descriptor
 def findPointNormals(points, numNeighbours, viewPoint, residue_id, residue_name,f):
     xu=[]
     for i in points:
@@ -164,7 +165,7 @@ def rotate(origin, point, angle, seed):
 depth="msms"
 dist = 8.6
 pH = 7
-
+#pose generation and score calculation
 def do_something(args):
 	
       output_file='out'+str(args[1])+'.pdb'
@@ -219,6 +220,7 @@ def do_something(args):
       #sc.write(str(args[1])+'   '+ str(score)+'\n')
       #sc.close()
       return score, args[1], args[2], args[3]
+#preprocessing 
 def pdbpre(file1):
     
   pdb_in = open(os.path.join(args.pdb, file1), "r")
@@ -318,16 +320,15 @@ if True:
       rec_normal, rec_curve =findPointNormals(rec_coord, 20,[0,0,0], rec_res_id, rec_res, 'r')
       lig_normal, lig_curve =findPointNormals(lig_coord, 20,[0,0,0], lig_res_id, lig_res, 'r')
 
-      islands=[[],[],[],[],[],[],[],[],[],[]]   #,[],[],[],[],[],[],[],[],[],[]]#,[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[]]
+      islands=[[],[],[],[],[],[],[],[],[],[]]   
 
-      #n=20
-      N_iter=1#50#0#50#10000
+
       p=0.8
       d=4
       mypath='poses/'
       dictionary={}
       init=0
-      while len(dictionary)<n:
+      while len(dictionary)<n:		#generation of initial population
 
         with concurrent.futures.ProcessPoolExecutor() as executor:
               args = []
@@ -335,18 +336,13 @@ if True:
               while ii<n:
                     #print(init)
                     so=[0,0,0,0]
-                    #np.random.seed(seedc)
-                    #seedc+=1
+
                     randomr=r.random_integers(0,len(rec_coord)-1)
-                    #print 'randomr    ',
-                    #print randomr
-                    #print randomr
+
                     
-                    #np.random.seed(seedc)
-                    #seedc+=1
+
                     randoml=r.random_integers(0,len(lig_coord)-1)
-                    #print 'randoml    ',
-                    #print randoml
+
                     axis=rec_coord[randomr]
                     a=rec_normal[randomr]
                     b=lig_normal[randoml]
@@ -360,7 +356,7 @@ if True:
                     final=np.empty((0,3))
                     for i in lig_atom:
                           final=np.append(final,[so.rotate(i)], axis=0)
-                          #final=np.append(final, [rotate(axis, i,theta, a)], axis=0)
+
 
                     args+=[[final, init, so,-1]]
                     init+=1
@@ -377,11 +373,7 @@ if True:
       key=list(dictionary.keys())
       #print(key)
 
-      #Is=random.randint(10,15)#no of islands
-      #print "initiaaaaaalpoppppulation generated"
-      #print dictionary
 
-      #flag=np.zeros((len(key),1))
       for i in range(len(key)):
             #k=random.sample(range(len(key)),1)[0]
             #while flag[k]==1:
@@ -404,9 +396,9 @@ if True:
                         
                         minimum=dictionary[j][0]
             best.append(besti)
-      #print best
 
-      MaxGen=100	#000
+
+      MaxGen=100	# Improvement
       t=1
       #Fm=10
       Is=len(islands)
@@ -432,7 +424,7 @@ if True:
                               #np.random.seed(seedc)
                               #seedc+=1
                               stec=r.random_sample()
-                              if stec < p:
+                              if stec < p:	#global pollination
                                    u = r.normal(size=(1, d)) * sigma
                                    v = r.normal(size=(1, d))
                                    step = u / abs(v) ** (1 / lamda)
@@ -457,7 +449,7 @@ if True:
                                     
 
                                     
-                              else:
+                              else:		#local pollination
                                     
                                 epsilon = r.random_sample()
                               
@@ -492,12 +484,7 @@ if True:
                               else:
                                     dictionary[result[1]]=[result[0], result[2]]
                                     islands[result[3]].append(result[1])
-                        #print islands
-                        #print islands
-            
-                                    #if dictionary[best[result[3]]][0] > result[0]:
-#sc.close()                                   #      best[result[3]]=result[1]
-            #print dictionary
+
             
            
                         if len(islands[j])>10: #keep only best 10 in an island
@@ -532,21 +519,7 @@ if True:
                         #ss=sorted(b.items(), key=lambda kv: kv[1])
                         ss= sorted(b.items(),key= lambda  x: (x[1][0],x[0]))
                         best[j]=ss[0][0]
-                        #b1=open('best1.txt','a')
-                        #b1.write(str(best[j]))
-                        #b1.write('\n\n')
-                        #ffs.write(str(j)+str(dictionary[best[j]][0])+'\n')
-		  #print best[j]
-		  #break
-		
- 
 
-            #ffs.close()
-            
-            #print dictionary
-            #break
-            #t+=1
-            #break
             bestl=[]
             if t%MaxGen==0:
                 be=open('bestenergy.txt','w')
@@ -575,10 +548,7 @@ if True:
                     os.remove(fname)
                 except:
                     pass
-      #for kk in bestl:
-      #print dictionary
-      #print("\n\n")
-      #print(bestl)
+
 
       directory="native_"+pdb0
       path = os.path.join('./', directory) 
@@ -586,7 +556,7 @@ if True:
 
       for i in bestl:
             if i >0:
-                  shutil.move(os.path.join('poses/', 'out'+str(i)+'.pdb'), directory)
+                  shutil.move(os.path.join('poses/', 'out'+str(i)+'.pdb'), directory)	#move best in each island to native folder
 #s1.close()
 #r1.close()
 #b1.close()
