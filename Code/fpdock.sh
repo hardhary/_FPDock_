@@ -57,7 +57,7 @@ touch "best_${sub}_${h}.txt"
 li=(${sub}/report*)
 for xi in "${li[@]}"
 do
-	mapfile -t array < <(python final.py -f ${xi})
+	mapfile -t array <<(python final.py -f ${xi})
 	echo ${array[0]} >> "best_${sub}.txt"
 done
 mv best_${sub}.txt bestenergy.txt "${sub}"
